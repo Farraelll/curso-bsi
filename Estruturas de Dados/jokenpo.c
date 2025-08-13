@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 
 int main()
 {
@@ -7,8 +9,10 @@ int main()
 
     printf("Primeiro jogador, escolha pedra(r), papel(p) ou tesoura(t):\n");
     scanf("%c", &primeiro);
+    system("clear");
     printf("\nSegundo jogador, escolha pedra(r), papel(p) ou tesoura(t):\n");
     scanf(" %c", &segundo);
+    system("clear");
 
     if (primeiro == segundo) {
         printf("Empate");
