@@ -1,3 +1,5 @@
+/*Código normal de um pedra, papel, tesoura. Primeiro exercício de código feito em C. */
+
 #include <stdio.h>
 #include <stdlib.h>
 

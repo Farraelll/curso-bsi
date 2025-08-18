@@ -1,3 +1,4 @@
+/*Exercício que pede para calcular a área, perímetro e diagonal de um triangulo usando comprimento e altura, com alteração dos ponteiros para acessar os valores.*/
 #include <stdio.h>
 #include <math.h>
 
