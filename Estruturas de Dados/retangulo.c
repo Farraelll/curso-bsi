@@ -1,8 +1,8 @@
-/*Segundo exercício desenvolvido pelo professor. */
-/*Exercício que pede para calcular a área, perímetro e diagonal de um triangulo usando comprimento e altura, com alteração dos ponteiros para acessar os valores.*/
+//Segundo exercício desenvolvido pelo professor;
+//Exercício que pede para calcular a área, perímetro e diagonal de um triangulo usando comprimento e altura, com alteração dos ponteiros para acessar os valores.
+
 #include <stdio.h>
 #include <math.h>
-
 
 void calc_info_retangulo(double comp, double larg, double *area, double *per, double *diag)
 {

@@ -1,5 +1,5 @@
-/*Primeiro exercício desenvolvido pelo professor. */
-/*Pedra, papel, tesoura. Primeiro exercício de código feito em C. */
+//Primeiro exercício desenvolvido pelo professor;
+//Pedra, papel, tesoura. Primeiro exercício de código feito em C.
 
 #include <stdio.h>
 #include <stdlib.h>

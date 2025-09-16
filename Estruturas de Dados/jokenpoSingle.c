@@ -1,5 +1,5 @@
-/*Terceiro exercício desenvolvido pelo professor. */
-/*Código de um pedra, papel, tesoura que é jogado contra a máquina, com um número de rodadas definido. */
+//Terceiro exercício desenvolvido pelo professor;
+//Código de um pedra, papel, tesoura que é jogado contra a máquina, com um número de rodadas definido.
 
 #include <stdio.h>
 #include <stdlib.h>
