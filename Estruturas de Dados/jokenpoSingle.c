@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#define rodadas 3
 
 char escolheJogada() {
     int escolha = 1 + rand() % 4;
@@ -22,7 +23,6 @@ int main() {
     char humano, maquina;
     int vitorias = 0, empates = 0;
     srand(time(NULL));
-    int rodadas = 1 + rand() % 10;
 
     for (int c = 0; c < rodadas; c++) {
 
